@@ -9,7 +9,7 @@
   "dependencies": {
     "@nivo/bar": "^0.61.1",
     "@nivo/pie": "^0.61.1",
-    "@sentry/browser": "^5.15.5",
+    "@sentry/browser": "^6.10.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
